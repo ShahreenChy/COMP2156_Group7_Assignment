@@ -1,0 +1,1 @@
+"COMP2156 - DevOps For System Administration is a 4th semester course for computer science programs to learn procedures, protocols, and best practices for a DevOps engineer to learn."
