@@ -1,1 +1,4 @@
-"The importance of learning about DevOps for System Administration is to learn, or atleast have the basics, of how to effectively carry out the roles of a System or Network engineer with DevOps processes. Going into a new enviroment without the information of how to function or keep up with the functions of the industry will lead to failure. With the COMP2156 course, it is helping students to set up for better success."
+"The importance of learning about DevOps for System Administration is to learn:" 
+"The basics of how to effectively carry out the roles of a System or Network engineer with DevOps processes." 
+"Going into a new enviroment without the information of how to function or keep up with the functions of the industry will lead to failure. With the COMP2156 course, it is helping students to set up for better success."
+
