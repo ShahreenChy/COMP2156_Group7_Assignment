@@ -11,3 +11,4 @@ There are 2 major assignments. 1 individual assignment and 1 group assignment.
 With the group project it is completed in the first half of the semester.
 
 In week 1 you will learn about Bash and CLI
+In week 2 you will learn about GitHub 
