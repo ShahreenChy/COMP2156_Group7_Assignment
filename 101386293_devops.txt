@@ -6,3 +6,4 @@ front-end developes and salary range of devops engineers
 More on DevOps
 SPA and Hosting
 CI-CD and Jenkins
+Cloud storage and database administration
