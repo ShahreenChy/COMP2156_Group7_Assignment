@@ -9,3 +9,5 @@ There are also 8 lab exercises that will help you with hands on experience on wh
 There are 10 quizzes in this course and the 8 with the highest scores will be counted towards your grade.
 There are 2 major assignments. 1 individual assignment and 1 group assignment.
 With the group project it is completed in the first half of the semester.
+
+In week 1 you will learn about Bash and CLI
