@@ -1,4 +1,5 @@
 George Brown College
+campus:
 Casa Loma Campus
 175 Kendal Ave,Toronto,ON, M5R 3S8
 Program: T191, Computer Systems Technician
