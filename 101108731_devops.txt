@@ -1,0 +1,2 @@
+This course covers DevOps best practices, protocols, and tools to enhance workplace productivity through automation and collaboration.
+Students will gain hands-on experience with industry-standard tools like Ansible and Git while learning key data formats such as XML, JSON, YAML, and YANG for network automation.
