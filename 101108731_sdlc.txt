@@ -7,3 +7,5 @@ Scalability: DevOps allows organizations to scale their applications and infrast
 Enhanced Security: With DevOps, security practices (DevSecOps) are integrated throughout the development lifecycle, ensuring that security is a continuous focus rather than an afterthought.
 Increased Efficiency: Automation of repetitive tasks like testing, deployment, and monitoring saves time, allowing teams to focus on more critical tasks and increasing overall productivity.
 Faster Time to Market: DevOps practices like continuous integration and continuous delivery (CI/CD) help teams quickly release updates and features, staying competitive in fast-paced markets
+
+Dev ops is a standard course to take when stepping into the tech career field
