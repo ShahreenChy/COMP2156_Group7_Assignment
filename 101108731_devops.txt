@@ -12,3 +12,4 @@ With the group project it is completed in the first half of the semester.
 
 In week 1 you will learn about Bash and CLI
 In week 2 you will learn about GitHub 
+In week 3 you will learn about Version Control for DevOps
