@@ -1,0 +1,7 @@
+The COMP 3104 DevOps course equips students with the essential skills to implement DevOps practices and tools in modern software development and IT operations.
+It focuses on automation, continuous integration, and continuous delivery to optimize collaboration between development and operations teams.
+
+- Principles of DevOps: Learn the core concepts of DevOps and its impact on software development.
+- Hands-On Tools: Work with tools like Git, Jenkins, Docker, and Kubernetes.
+- Automation & Efficiency: Gain practical experience in automating the software delivery pipeline.
+- Collaboration Focus: Enhance teamwork between development and operations teams throughout the SDLC.
