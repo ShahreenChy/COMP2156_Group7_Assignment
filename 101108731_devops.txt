@@ -4,3 +4,12 @@ This course covers DevOps best practices, protocols, and tools to enhance workpl
 Students will gain hands-on experience with industry-standard tools like Ansible and Git while learning key data formats such as XML, JSON, YAML, and YANG for network automation.
 
 There are 2 exams in this course.  The first exam is a mid-term exam and there is a final exam at the end of the term.
+There are also 8 lab exercises that will help you with hands on experience on what is being taught by the professor.
+
+There are 10 quizzes in this course and the 8 with the highest scores will be counted towards your grade.
+There are 2 major assignments. 1 individual assignment and 1 group assignment.
+With the group project it is completed in the first half of the semester.
+
+In week 1 you will learn about Bash and CLI
+In week 2 you will learn about GitHub 
+In week 3 you will learn about Version Control for DevOps
